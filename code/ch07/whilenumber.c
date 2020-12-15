@@ -10,7 +10,7 @@ int main(void)
 	while (n <= MAX)
 		printf("%d\n", n++);
 
-	printf("\nÁ¦¾îº¯¼ö n => %d\n", n);
+	printf("\nì œì–´ë³€ìˆ˜ count => %d\n", n);
 
 	return 0;
 }
